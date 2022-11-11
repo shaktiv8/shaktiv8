@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakti
-- 👀 I’m interested in ... harnessing the power of AI for use in Cybersecurity
+- 👀 I’m interested in ... passing my exams
 - 🌱 I’m currently learning ... a MSc in Computer Science (Conversion)
-- 💞️ I’m looking to collaborate on ... anything that will help me become a better software engineer 
+- 💞️ I’m looking to collaborate on ... anything that will help me become a better computer scientist
 - 📫 How to reach me ... holla at me! Thank you for stopping by!
 
 <!---
